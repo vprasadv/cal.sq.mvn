@@ -1,0 +1,60 @@
+@CHARSET "ISO-8859-1";
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* Style tab links */
+.tablink {
+    background-color: GREEN;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.spancontent {
+	color: RED;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+.alignmiddle{
+	text-align: center;
+}
+.tableclass {
+	margin: auto;
+     width: 50%;
+     border: 3px solid BLUE;
+     background-color: #b0e0e6;
+    padding: 10px;
+}
+
+.banner {
+	font-size: 25px;
+	color: BLACK;
+	background-color: #b0e0e6;
+	text-align: center;
+}
+#SimpleCalculator {background-color: orange;}
+#AgeCalculator {background-color: orange;}
+#EMICalculator {background-color: orange;}
+
+
+
+
