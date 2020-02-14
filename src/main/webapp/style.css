@@ -51,9 +51,9 @@ body, html {
 	background-color: #b0e0e6;
 	text-align: center;
 }
-#SimpleCalculator {background-color: orange;}
-#AgeCalculator {background-color: orange;}
-#EMICalculator {background-color: orange;}
+#SimpleCalculator {background-color: GREY;}
+#AgeCalculator {background-color: GREY;}
+#EMICalculator {background-color: GREY;}
 
 
 
